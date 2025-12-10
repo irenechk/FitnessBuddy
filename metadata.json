@@ -1,0 +1,7 @@
+{
+  "name": "YourFitnessBuddy",
+  "description": "A premium, dark-mode fitness timer app with pre-built workouts, custom routines, voice coaching, and smart progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
